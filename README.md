@@ -9,7 +9,7 @@
   <a href="https://twitter.com/V_BTY" rel="nofollow"> <img src="https://lispcast.com/wp-content/plugins/pftv_tweets/img/twitter-logo.png" alt="Twitter" width="20" height="20" style="max-width: 100%;"> </a> 
   </li>
 </ul>
-<br/><br/>
+<br/>
 <h1>🔨 Languages and Tools</h1>
 <!--C-->
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a> 
