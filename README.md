@@ -43,5 +43,3 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtarioPZ&layout=compact)
 
-
-Reach me @Twitter : @V_bty
