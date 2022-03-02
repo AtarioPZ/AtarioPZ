@@ -4,7 +4,7 @@
 <ul>
   <li> Interested in Web Development, Software Development and Game Development</li>
   <li> Worked on Management Systems (Hostel & School)</li>
-  <li> Currently working on Porfolio Page</li>
+  <li> Currently working on a 2D Unity Project</li>
   <li>Reach me at:
   <a href="https://twitter.com/V_BTY" rel="nofollow"> <img src="https://lispcast.com/wp-content/plugins/pftv_tweets/img/twitter-logo.png" alt="Twitter" width="20" height="20" style="max-width: 100%;"> </a> 
   </li>
