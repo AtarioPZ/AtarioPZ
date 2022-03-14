@@ -7,7 +7,7 @@
   <li> Currently working on a 2D Unity Project</li>
   <li>Reach me at:
     <ul>
-        <a href="https://twitter.com/V_BTY" rel="nofollow"> <img src="https://lispcast.com/wp-content/plugins/pftv_tweets/img/twitter-logo.png" alt="Twitter" width="20" height="20" style="max-width: 100%;"> </a>
+        <a href="https://twitter.com/V_BTY" rel="nofollow"> <img src="/Assets/twitter.png" alt="Twitter" width="20" height="20" style="max-width: 100%;"> </a>
       <a href="https://discordapp.com/users/163320954817216513" rel="nofollow"> <img src="https://nektony.com/wp-content/uploads/2019/07/discord-icon.png" alt="Discord" width="20" height="20" style="max-width: 100%;"> </a>
     </ul>
   </li>
