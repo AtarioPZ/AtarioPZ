@@ -4,7 +4,7 @@
 <ul>
   <li> Interested in Web Development, Software Development and Game Development</li>
   <li> Worked on Management Systems (Hostel & School)</li>
-  <li> Currently working on a 2D Unity Project</li>
+  <li> Currently working on WEB Development using Django Framework</li>
   <li>Reach me at:
     <ul>
         <a href="https://twitter.com/V_BTY" rel="nofollow"> <img src="/Assets/twitter.png" alt="Twitter" width="20" height="20" style="max-width: 100%;"> </a>
