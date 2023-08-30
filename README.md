@@ -5,7 +5,8 @@
   <li> Interested in Web Development, Software Development and Game Development</li> 
   <li> Worked on Management Systems (Hostel & School)</li>
   <li> Currently focusing on learning python and web dev</li> 
-  <li> Current Project: <a href="https://pixel-workshop.vercel.app/">Pixel Workshop</a>
+  <li> Latest Project: <a href="https://pixel-workshop.vercel.app/">Pixel Workshop</a>
+  <li> Current Project: REST API</li>
  </li>  
   <li>Reach me at:
     <ul>
