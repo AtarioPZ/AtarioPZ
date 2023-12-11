@@ -7,7 +7,7 @@
   <li> Currently focusing on learning python and web dev</li> 
   <li> Previous Project: <a href="https://pixel-workshop.vercel.app/">Pixel Workshop</a>
   <li> Latest Project: <a href="https://vic-moviebooker.netlify.app/">Movie Booker</a>
-  <li> Current Project: Movie Booker</li>
+  <li> Current Project: Transportation Booking System</li>
  </li>  
   <li>Reach me at:   
       <a href="https://twitter.com/V_BTY" rel="nofollow"> <img src="/Assets/twitter.png" alt="Twitter" width="20" height="20" style="max-width: 100%;"> </a>
