@@ -4,7 +4,7 @@
 <ul>
   <li> Interested in Web Development, Software Development and Game Development</li> 
   <li> Worked on Management Systems (Hostel & School)</li>
-  <li> Currently focusing on learning python and web dev</li> 
+  <li> Currently focusing on front end development</li> 
   <li> Previous Project: <a href="https://pixel-workshop.vercel.app/">Pixel Workshop</a>
   <li> Latest Project: <a href="https://vic-moviebooker.netlify.app/">Movie Booker</a>
   <li> Current Project: Transportation Booking System</li>
