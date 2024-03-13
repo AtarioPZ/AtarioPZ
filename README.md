@@ -5,9 +5,9 @@
   <li> Interested in Web Development, Software Development and Game Development</li> 
   <li> Worked on Management Systems (Hostel & School)</li>
   <li> Currently focusing on front end development</li> 
-  <li> Previous Project: <a href="https://pixel-workshop.vercel.app/">Pixel Workshop</a>
-  <li> Latest Project: <a href="https://vic-moviebooker.netlify.app/">Movie Booker</a>
-  <li> Current Project: Transportation Booking System</li>
+  <li> Previous Project: <a href="https://vic-moviebooker.netlify.app/">Movie Booker</a>
+  <li> Latest Project: <a href="https://koin-x-sepia.vercel.app/">KoinX</a></a>
+  <li> Current Project: ---</li>
  </li>  
   <li>Reach me at:   
       <a href="https://twitter.com/V_BTY" rel="nofollow"> <img src="/Assets/twitter.png" alt="Twitter" width="20" height="20" style="max-width: 100%;"> </a>
