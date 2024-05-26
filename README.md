@@ -5,8 +5,8 @@
   <li> Interested in Web Development, Software Development and Game Development</li> 
   <li> Worked on Management Systems (Hostel & School)</li>
   <li> Currently focusing on front end development</li> 
-  <li> Previous Project: <a href="https://koin-x-sepia.vercel.app/">KoinX</a></a>
-  <li> Latest Project: <a href="https://airphonevb.netlify.app/">Phone UI</a></a>
+  <li> Previous Project: <a href="https://portfolio-gold-omega-22.vercel.app/">Portfolio</a></a>
+  <li> Latest Project: <a href="https://conkritiarchitects.pages.dev/">ConKriti Architects</a></a>
   <li> Current Project: ---</li>
  </li>  
   <li>Reach me at:   
