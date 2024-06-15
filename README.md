@@ -6,7 +6,7 @@
   <li> Worked on Management Systems (Hostel & School)</li>
   <li> Currently focusing on front end development</li> 
   <li> Previous Project: <a href="https://portfolio-gold-omega-22.vercel.app/">Portfolio</a></a>
-  <li> Latest Project: <a href="https://conkritiarchitects.pages.dev/">ConKriti Architects</a></a>
+  <li> Latest Project: <a href="https://ashmaninfro.com">Ashman Infra Pvt Ltd</a></a>
   <li> Current Project: ---</li>
  </li>  
   <li>Reach me at:   
