@@ -5,9 +5,9 @@
   <li> Fontend Developer, Interested in Software Development and Game Development</li> 
   <li> Worked on Management Systems (Hostel & School)</li>
   <li> Currently focusing on front end development</li> 
-  <li> Previous Project: <a href="https://victorbasumatary.pages.dev/">Portfolio</a></a>
-  <li> Latest Project: <a href="https://www.ashmaninfra.com/">Ashman Infra Pvt Ltd</a></a>
-  <li> Current Project: ---</li>
+  <li> Previous Project: on NDA </li>
+  <li> Latest Project: on NDA </li>
+  <li> Current Project: on NDA</li>
  </li>  
   <li>Reach me at:   
       <a href="https://twitter.com/V_BTY" rel="nofollow"> <img src="/Assets/twitter.png" alt="Twitter" width="20" height="20" style="max-width: 100%;"> </a>
