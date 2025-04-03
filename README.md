@@ -3,7 +3,6 @@
 
 <ul>
   <li> Fontend Developer, Interested in Software Development and Game Development</li> 
-  <li> Worked on Management Systems (Hostel & School)</li>
   <li> Currently focusing on front end development</li> 
   <li> Previous Project: on NDA </li>
   <li> Latest Project: on NDA </li>
